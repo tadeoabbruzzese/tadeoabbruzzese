@@ -1,15 +1,18 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200">
+</div>
 <h1 align="center"> Hola 👋, Soy Tadeo</h1>
-<h3 align="center">Tengo 21 años y soy un desarrollador Full Stack residente en Argentina 🇦🇷. Me gusta mucho aprender y ser constante en lo que aprendo, y mucho mas si es algo que me apasiona! 🙌</h3>
+<h3 align="center">Tengo 21 años y soy un desarrollador Full Stack residente en Argentina. Me gusta mucho aprender y ser constante en lo que aprendo, y mucho mas si es algo que me apasiona! 🙌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadeoabbruzzese&label=Profile%20views&color=0e75b6&style=flat" alt="tadeoabbruzzese" /> </p>
 
 - 🔭 Actualmente estoy trabajando en un proyecto orientado al cuidado de la salud mental, junto con mis compañeros de la fundación pescar - Santander **mente sana**
 
-- 🌱 Me encuentro estudiando en una beca de Programador Full Stack de Santander - Educación IT - Fundación pescar **HTML, CSS, JavaScript, ExpressJS, NodeJS, React, MongoDB, Git**
+- 🌱 Me encuentro estudiando en una beca de Programador Full Stack de la mano con Santander, Educación IT & Fundación pescar. Lo que estoy aprendiendo en el curso es lo siguiente: **HTML, CSS, JavaScript, ExpressJS, NodeJS, React, MongoDB, Git**
 
-- 📫 Contacto **tadeoabbruzzese@gmail.com**
+- 📫 Contacto: **tadeoabbruzzese@gmail.com**
 
-- 📄 Un poco de mi [https://drive.google.com/file/d/1S0kLB3CjIHpCf6t3ujrlqfx3dk32aVHm/view?usp=drive_link](https://drive.google.com/file/d/1S0kLB3CjIHpCf6t3ujrlqfx3dk32aVHm/view?usp=drive_link)
+- 📄 Mi CV Actualizado: [https://drive.google.com/file/d/1S0kLB3CjIHpCf6t3ujrlqfx3dk32aVHm/view?usp=drive_link](https://drive.google.com/file/d/1S0kLB3CjIHpCf6t3ujrlqfx3dk32aVHm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
