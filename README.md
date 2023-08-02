@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadeoabbruzzese&label=Profile%20views&color=0e75b6&style=flat" alt="tadeoabbruzzese" /> </p>
 
-- 🔭 Actualmente estoy trabajando en un proyecto orientado al cuidado de la salud mental, junto con mis compañeros de la fundación pescar - Santander **mente sana**
+- 🔭 Actualmente estoy trabajando en un proyecto orientado al cuidado de la salud mental, junto con mis compañeros de la fundación pescar - Santander. El nombre del proyecto se llama **Mente Sana** y aun esta en proceso ⏲️...
 
 - 🌱 Me encuentro estudiando en una beca de Programador Full Stack de la mano con Santander, Educación IT & Fundación pescar. Lo que estoy aprendiendo en el curso es lo siguiente: **HTML, CSS, JavaScript, ExpressJS, NodeJS, React, MongoDB, Git**
 
