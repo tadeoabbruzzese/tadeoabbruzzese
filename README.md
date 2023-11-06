@@ -16,7 +16,7 @@
 
 <h3 align="left">Otros contactos:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tadeo abbruzzese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeo abbruzzese" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/tadeo abbruzzese](https://www.linkedin.com/in/tadeo-abbruzzese/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeo abbruzzese" height="30" width="40" /></a>
 <a href="https://instagram.com/tadefrias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tadefrias" height="30" width="40" /></a>
 <a href="https://discord.gg/tade5057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tade5057" height="30" width="40" /></a>
 </p>
