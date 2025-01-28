@@ -12,7 +12,7 @@
 
 - 📫 Contacto: **tadeoabbruzzese@gmail.com**
 
-- 📄 Mi CV Actualizado: [https://drive.google.com/file/d/1S0kLB3CjIHpCf6t3ujrlqfx3dk32aVHm/view?usp=drive_link](https://drive.google.com/file/d/1S0kLB3CjIHpCf6t3ujrlqfx3dk32aVHm/view?usp=drive_link)
+- 📄 Mi CV Actualizado: [https://drive.google.com/file/d/1S0kLB3CjIHpCf6t3ujrlqfx3dk32aVHm/view?usp=drive_link](https://drive.google.com/file/d/1jL-_8LCAinJ_L-sh7hUZbhWd-JXsiMvx/view?usp=drive_link)
 
 <h3 align="left">Otros contactos:</h3>
 <p align="left">
